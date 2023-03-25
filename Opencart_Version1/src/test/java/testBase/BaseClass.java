@@ -97,7 +97,7 @@ public class BaseClass {
 		
 		TakesScreenshot ts=(TakesScreenshot) driver;
         File source = ts.getScreenshotAs(OutputType.FILE);
-        String destination = System.getProperty("user.dir")+"\\Screensc\\"+tname+"_"+ts+".png";
+        String destination = System.getProperty("user.dir")+"\\screenshots\\"+tname+"_"+timeStamp+".png";
         
 
         try 

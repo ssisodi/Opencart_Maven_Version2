@@ -224,3 +224,27 @@
 17:06:55.375 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
 17:06:55.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
 17:06:55.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
+17:30:04.377 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
+17:30:04.382 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
+17:30:04.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+17:30:04.900 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+17:30:05.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:30:05.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:31:27.490 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
+17:31:27.497 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
+17:31:27.620 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+17:31:27.999 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+17:31:28.611 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:31:28.638 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:37:01.867 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
+17:37:01.873 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
+17:37:01.973 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+17:37:02.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+17:37:02.922 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:37:02.945 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:41:51.422 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
+17:41:51.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
+17:41:51.523 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+17:41:51.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+17:41:52.415 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:41:52.435 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
