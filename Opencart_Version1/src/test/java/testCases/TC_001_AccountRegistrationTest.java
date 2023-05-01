@@ -6,7 +6,8 @@ import pageObjects.HomePage;
 import testBase.BaseClass;
 
 public class TC_001_AccountRegistrationTest extends BaseClass{
-	@Test
+
+	@Test(groups = {"Regression","Master"})
 	public void test_account_Registration() throws InterruptedException
 	{
 		logger.debug("application logs....");

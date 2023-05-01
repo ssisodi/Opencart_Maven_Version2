@@ -31,7 +31,7 @@ public class BaseClass {
 	public ResourceBundle rb;
 
 	@Parameters("browser")
-	@BeforeClass
+	@BeforeClass(groups = {"Master","Sanity","Regression"})
 	public void setup(String br)
 	{
 		logger = LogManager.getLogger(this.getClass()); 
@@ -68,7 +68,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 	}
 	
-	@AfterClass
+	@AfterClass (groups = {"Master","Sanity","Regression"})
 	public void tearDown()
 	{
 		driver.quit();

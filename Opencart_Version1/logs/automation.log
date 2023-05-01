@@ -1,250 +1,142 @@
-16:13:42.634 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-16:13:42.709 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-16:14:17.757 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-16:14:17.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-16:14:18.205 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-16:14:21.071 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-16:14:21.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-16:14:21.117 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:09:39.643 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:09:39.718 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-17:10:27.033 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:10:27.163 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:10:27.684 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:10:30.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:10:30.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:10:30.669 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-16:12:41.759 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-16:14:02.722 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-16:14:02.869 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-16:14:02.869 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-16:20:20.421 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-16:20:20.508 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-16:20:20.508 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-16:23:50.665 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-16:23:50.782 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-16:23:50.782 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-16:47:30.804 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-16:47:30.904 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-16:47:30.904 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:08:03.071 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:08:03.233 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-17:08:03.233 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:13:13.289 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:13:13.471 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:13:13.751 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:13:16.734 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:13:16.768 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:13:16.770 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:14:54.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:14:54.169 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-17:14:54.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:15:29.599 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:15:29.704 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-17:15:29.704 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:16:45.349 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:16:45.475 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-17:16:45.477 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:25:02.912 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:25:03.048 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-17:25:03.050 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:47:58.335 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:47:58.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:47:58.758 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:48:01.470 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:48:01.497 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:48:01.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:54:01.905 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:54:02.005 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:54:02.199 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:54:04.801 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:54:04.825 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:54:04.828 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:55:22.834 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:55:22.946 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:55:23.130 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:55:25.720 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:55:25.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:55:25.747 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-18:12:43.181 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-18:12:43.283 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-18:12:43.490 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-18:12:46.059 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-18:12:46.081 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-18:12:46.085 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-18:14:36.293 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-18:14:36.399 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-18:14:36.616 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-18:14:39.171 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-18:14:39.194 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-18:14:39.197 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-18:30:39.130 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-18:30:39.236 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-18:30:39.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-18:30:42.021 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-18:30:42.044 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-18:30:42.047 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-18:31:20.060 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-18:31:20.178 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-18:31:20.380 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-18:31:22.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-18:31:23.004 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-18:31:23.006 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-18:44:27.293 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-18:45:25.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-18:45:25.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-18:45:26.162 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-18:45:28.806 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-18:45:28.830 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-18:45:28.832 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-18:47:22.117 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-18:47:22.133 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-18:47:22.240 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-18:47:22.437 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-18:47:25.027 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-18:47:25.049 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-18:47:25.051 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-19:38:09.652 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-19:38:09.669 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-19:38:09.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-19:38:10.445 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-19:38:13.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-19:38:13.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-19:38:13.566 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-19:38:54.964 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-19:38:54.991 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-19:38:55.142 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-19:38:55.623 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-19:38:58.647 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-19:38:58.677 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-19:38:58.689 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-20:03:17.301 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-20:03:17.305 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-20:03:17.367 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-20:03:17.367 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-20:05:27.491 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-20:05:27.497 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-20:05:27.600 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-20:05:28.437 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-20:05:31.547 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-20:05:31.590 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-20:05:31.592 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-20:06:50.030 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-20:06:50.035 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-20:06:50.120 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-20:06:50.490 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-20:06:53.488 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-20:06:53.524 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-20:06:53.525 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-20:07:48.321 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-20:07:48.327 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-20:07:48.417 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test failed
-20:07:48.417 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-21:59:21.854 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-21:59:21.861 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-21:59:21.968 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-21:59:22.453 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-21:59:22.613 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-21:59:22.613 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-21:59:22.690 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-21:59:23.106 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-21:59:25.638 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-21:59:25.683 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-21:59:25.684 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-21:59:26.030 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-21:59:26.058 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-21:59:26.058 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-22:04:27.252 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-22:04:27.265 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-22:04:27.554 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-22:04:28.180 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-22:04:28.674 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-22:04:28.674 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-22:04:28.765 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-22:04:29.329 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-22:04:30.814 [TestNG-tests-3] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-22:04:30.814 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-22:04:31.079 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-22:04:31.614 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-22:04:31.683 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-22:04:31.686 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-22:04:31.686 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-22:04:32.488 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-22:04:32.529 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-22:04:32.529 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-22:04:34.661 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-22:04:34.684 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-22:04:34.685 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-22:08:05.963 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-22:08:05.976 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-22:08:06.208 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-22:08:06.790 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-22:08:07.104 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-22:08:07.105 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-22:08:07.187 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-22:08:07.660 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-22:08:08.750 [TestNG-tests-3] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-22:08:08.750 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-22:08:08.987 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-22:08:09.353 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-22:08:10.154 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-22:08:10.197 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-22:08:10.200 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-22:08:10.845 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-22:08:10.883 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-22:08:10.884 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-22:08:12.274 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-22:08:12.289 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-22:08:12.289 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-22:56:57.813 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-22:56:57.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-22:56:57.931 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-22:56:58.606 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-22:57:01.717 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-22:57:01.747 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-22:57:01.749 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-18:00:56.603 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-18:00:56.606 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-18:00:56.675 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-18:00:57.208 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-18:01:00.220 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-18:01:00.249 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-18:01:00.253 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:03:37.886 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-17:03:37.890 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:03:38.008 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:03:38.423 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:03:41.294 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:03:41.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:03:41.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:06:51.859 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-17:06:51.867 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:06:51.981 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:06:52.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:06:55.375 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:06:55.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:06:55.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest****
-17:30:04.377 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-17:30:04.382 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:30:04.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:30:04.900 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:30:05.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:30:05.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:31:27.490 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-17:31:27.497 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:31:27.620 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:31:27.999 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:31:28.611 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:31:28.638 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:37:01.867 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-17:37:01.873 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:37:01.973 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:37:02.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:37:02.922 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:37:02.945 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-17:41:51.422 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs....
-17:41:51.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Starting TC_001_AccountRegistrationTest****
-17:41:51.523 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
-17:41:51.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
-17:41:52.415 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-17:41:52.435 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:12:32.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.255 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.265 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.280 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.281 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.289 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.313 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.337 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.361 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.372 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.372 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.380 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.393 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.394 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.395 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.406 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.417 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.417 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.417 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.425 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.434 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.441 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.457 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.479 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.487 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.497 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.505 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.517 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.527 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:12:32.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:12:32.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:12:32.535 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:12:32.549 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:12:33.453 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:12:33.462 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:12:34.105 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:12:34.111 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:12:34.792 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:12:34.794 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:12:35.448 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:12:35.452 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:13:15.046 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.052 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.056 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.552 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.678 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.679 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.693 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.706 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.721 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.754 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.766 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.781 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.781 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.782 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.799 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.814 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.815 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.827 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.841 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.855 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.878 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.890 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.899 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.912 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.913 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.920 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.941 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.950 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.953 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.961 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:15.973 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:15.974 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:15.975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:15.986 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:16.006 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:16.006 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:16.008 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:16.014 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:16.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:16.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:16.025 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:16.031 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:16.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:16.042 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:16.042 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:16.062 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:16.086 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:16.087 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:16.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:13:16.096 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:13:16.126 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:13:17.131 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:13:17.143 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:13:17.938 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:13:17.941 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:13:18.811 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:13:18.827 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:13:19.730 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:13:19.826 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+17:13:20.506 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
