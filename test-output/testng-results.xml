@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-15T16:28:08 IST" name="OpencartSuite" finished-at="2023-05-15T16:28:17 IST" duration-ms="8029">
+  <suite started-at="2023-05-18T15:20:17 IST" name="OpencartSuite" finished-at="2023-05-18T15:20:34 IST" duration-ms="16831">
     <groups>
     </groups>
-    <test started-at="2023-05-15T16:28:08 IST" name="OpencartTest" finished-at="2023-05-15T16:28:17 IST" duration-ms="8029">
+    <test started-at="2023-05-18T15:20:17 IST" name="OpencartTest" finished-at="2023-05-18T15:20:34 IST" duration-ms="16831">
       <class name="testCases.TC_003_LoginDataDrivenTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-15T16:28:09 IST" name="setup" finished-at="2023-05-15T16:28:12 IST" duration-ms="3594" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-18T15:20:18 IST" name="setup" finished-at="2023-05-18T15:20:26 IST" duration-ms="8469" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-15T16:28:13 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-15T16:28:14 IST" duration-ms="798" status="PASS">
+        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-18T15:20:29 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-18T15:20:30 IST" duration-ms="1536" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_LoginDDT -->
-        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-15T16:28:14 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-15T16:28:15 IST" duration-ms="549" status="PASS">
+        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-18T15:20:30 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-18T15:20:31 IST" duration-ms="976" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,7 +60,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_LoginDDT -->
-        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-15T16:28:15 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-15T16:28:15 IST" duration-ms="535" status="PASS">
+        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-18T15:20:31 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-18T15:20:32 IST" duration-ms="825" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -81,7 +81,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_LoginDDT -->
-        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-15T16:28:15 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-15T16:28:16 IST" duration-ms="469" status="PASS">
+        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-18T15:20:32 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-18T15:20:33 IST" duration-ms="739" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -102,7 +102,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_LoginDDT -->
-        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-15T16:28:16 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-15T16:28:16 IST" duration-ms="478" status="PASS">
+        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-18T15:20:33 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-05-18T15:20:34 IST" duration-ms="654" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,7 +123,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_LoginDDT -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-15T16:28:16 IST" name="tearDown" finished-at="2023-05-15T16:28:17 IST" duration-ms="235" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_LoginDataDrivenTest@8519cb4]" started-at="2023-05-18T15:20:34 IST" name="tearDown" finished-at="2023-05-18T15:20:34 IST" duration-ms="325" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
