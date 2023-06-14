@@ -11,7 +11,7 @@
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="test_LoginDDT" invocation-numbers="4"/>
+          <include name="test_LoginDDT" invocation-numbers="0 1 2 3 4"/>
         </methods>
       </class> <!-- testCases.TC_003_LoginDataDrivenTest -->
     </classes>
