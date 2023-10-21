@@ -7,13 +7,13 @@
   <test thread-count="5" name="OpencartTest(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_003_LoginDataDrivenTest">
+      <class name="testCases.TC_002_LoginTest">
         <methods>
           <include name="tearDown"/>
+          <include name="test_Login"/>
           <include name="setup"/>
-          <include name="test_LoginDDT" invocation-numbers="0 1 2 3 4"/>
         </methods>
-      </class> <!-- testCases.TC_003_LoginDataDrivenTest -->
+      </class> <!-- testCases.TC_002_LoginTest -->
     </classes>
   </test> <!-- OpencartTest(failed) -->
 </suite> <!-- Failed suite [OpencartSuite] -->
